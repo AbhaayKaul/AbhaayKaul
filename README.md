@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Suश्रुत](https://github.com/AbhaayKaul/IOSDWinterHack/)**
+- 🔭 I’m currently working on **Backend Dev**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
