@@ -33,6 +33,7 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style= "height:40px; margin-left:5px;"/> </a>
     <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" style= "height:40px; margin-left:20;"/> </a>
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" style= "height:40px; margin-left=5;"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" style= "height:40px; margin-left=5;"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
