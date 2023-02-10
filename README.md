@@ -47,7 +47,7 @@
 
 ## 📊 My Github Stats
 
-  <br/>
+<!--   <br/>
     <a href="https://github.com/Abhaaykaul/github-readme-stats"><img alt="Abhaay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhaaykaul&hide=issues&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <a href="https://github.com/Abhaaykaul/github-readme-stats"><img alt="Abhaay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaaykaul&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -60,7 +60,7 @@
 <a href="https://github.com/Abhaaykaul/github-readme-activity-graph"><img alt="Abhaay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhaaykaul&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 ## Connect with me on LinkedIn :
 <p align="left">
